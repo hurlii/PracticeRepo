@@ -7,6 +7,8 @@ public class Practice1 {
 		System.out.println("Hello World was the first class!");
 		
 		System.out.println("Another day, another practice");
+		
+		System.out.println("Learned Java for first time");
 	}
 
 }
